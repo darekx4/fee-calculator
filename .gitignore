@@ -1,0 +1,8 @@
+### Phphstorm ###
+.idea/
+
+### Packages ###
+/vendor/
+
+### Phpunit ###
+.phpunit.result.cache
