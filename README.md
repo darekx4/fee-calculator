@@ -1,6 +1,8 @@
 Coding Challenge - Fee Calculation
 =====
 
+[![Fee Calculation](https://github.com/darekx4/fee-calculator/actions/workflows/php.yml/badge.svg)](https://github.com/darekx4/fee-calculator/actions/workflows/php.yml)
+
 ## Background
 
 Design your solution in a way that shows your knowledge of OOP concepts, SOLID principles, design patterns, clean and extensible architecture.
