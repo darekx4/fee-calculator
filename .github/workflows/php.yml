@@ -1,4 +1,4 @@
-name: PHP Composer
+name: Fee Calculation
 
 on:
   push:
