@@ -1,6 +1,7 @@
 {
   "name": "darekx4/fee-calculator",
   "license": "MIT",
+  "description": "Coding Challenge - Fee Calculation",
   "authors": [
     {
       "name": "Dariusz Tercjak",
