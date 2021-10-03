@@ -1,6 +1,6 @@
 Coding Challenge - Fee Calculation
 =====
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-grren.svg)](https://opensource.org/licenses/MIT)
 [![Fee Calculation](https://github.com/darekx4/fee-calculator/actions/workflows/php.yml/badge.svg)](https://github.com/darekx4/fee-calculator/actions/workflows/php.yml)
 
 ## Background
