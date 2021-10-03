@@ -1,13 +1,13 @@
 Coding Challenge - Fee Calculation
 =====
-[![License: MIT](https://img.shields.io/badge/License-MIT-grren.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-limegreen.svg)](https://opensource.org/licenses/MIT)
 [![Fee Calculation](https://github.com/darekx4/fee-calculator/actions/workflows/php.yml/badge.svg)](https://github.com/darekx4/fee-calculator/actions/workflows/php.yml)
 
 ## Background
 
 Design your solution in a way that shows your knowledge of OOP concepts, SOLID principles, design patterns, clean and extensible architecture.
 
-Used PHP 7.4 and unit tests
+Used PHP PHP 7.4 and phpunit tests
 
 ## The test
 
